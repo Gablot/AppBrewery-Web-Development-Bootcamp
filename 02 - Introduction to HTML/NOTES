@@ -1,0 +1,42 @@
+*HTML = Hypertext Markup Language
+
+XML = Extensible Markup Language
+GML Generalized Markup Language
+
+Websites can compose only of html but not CSS or Javascript independently
+
+**Anatomy of an html tag
+    *<h1> HELLO WORLD </h1>*
+        ##<h1> => Start Tag
+        ##"Hello World" => Content
+        ##</h1> => End Tag
+
+    <br> => Self Closing tag (Does not require an end tag)
+
+    <hr size="3">
+        'size = "3"' => HTML Attribute
+
+    <!-- Everything inside is considered a comment -->
+
+Documentation is your friend for mastering a project.
+
+    https://developer.mozilla.org/en-US/
+
+    https://devdocs.io/
+
+Circle-Image-Cropper
+https://crop-circle.imageonline.co/
+
+Image-too-big-resize-tool
+https://www.befunky.com/create/resize-image/
+
+Course-Fixes-Report-an-Issue
+https://forms.gle/DNFNS8KgFdXtPvyY9
+
+Course-Resources
+https://www.appbrewery.co/p/web-development-course-resources
+
+Persons of Interest:
+Thomas H. Cormen
+Jon Kleinberg
+Donald Knuth

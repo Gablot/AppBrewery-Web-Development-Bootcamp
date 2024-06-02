@@ -17,4 +17,20 @@
 
 * How Do Websites Work?
     What does HTML, CSS and Javascript do exactly?
-    
+
+    ***Browser 
+    For accessing Webpages, There softwares are needed send a request
+    and render the data if the web sites || IP Adress you would like to visit
+
+    ***Code Files
+
+    ****HTMLS
+        Dictates the Structure of the website
+
+    ****CSS
+        Dictates the Aesthetics for the website
+
+    ****JS
+        Dictates the Behavior of the website
+
+    **The Developer tool is your Best Friend!
